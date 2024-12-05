@@ -1,0 +1,69 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="24.8.6">
+  <diagram name="Page-1" id="zpqSLGmbc37ruktpiQwq">
+    <mxGraphModel dx="1173" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tHBd0AY3MZ-OxSHpLEap-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="tHBd0AY3MZ-OxSHpLEap-1" target="tHBd0AY3MZ-OxSHpLEap-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tHBd0AY3MZ-OxSHpLEap-1" value="&lt;span style=&quot;font-size:12.0pt;line-height:&lt;br/&gt;106%;font-family:&amp;quot;Arial Nova Light&amp;quot;,sans-serif;mso-fareast-font-family:Calibri;&lt;br/&gt;mso-bidi-font-family:Arial;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;&lt;br/&gt;mso-bidi-language:AR-SA&quot; lang=&quot;ES-MX&quot;&gt;API OpenWeatherMap&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="20" y="220" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tHBd0AY3MZ-OxSHpLEap-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="tHBd0AY3MZ-OxSHpLEap-2" target="tHBd0AY3MZ-OxSHpLEap-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tHBd0AY3MZ-OxSHpLEap-2" value="&lt;span style=&quot;font-size:12.0pt;line-height:&lt;br/&gt;106%;font-family:&amp;quot;Arial Nova Light&amp;quot;,sans-serif;mso-fareast-font-family:Calibri;&lt;br/&gt;mso-bidi-font-family:Arial;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;&lt;br/&gt;mso-bidi-language:AR-SA&quot; lang=&quot;ES-MX&quot;&gt;API Yelp&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="30" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tHBd0AY3MZ-OxSHpLEap-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tHBd0AY3MZ-OxSHpLEap-3" target="tHBd0AY3MZ-OxSHpLEap-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tHBd0AY3MZ-OxSHpLEap-3" value="&lt;span style=&quot;font-size:12.0pt;line-height:&lt;br/&gt;106%;font-family:&amp;quot;Arial Nova Light&amp;quot;,sans-serif;mso-fareast-font-family:Calibri;&lt;br/&gt;mso-bidi-font-family:Arial;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;&lt;br/&gt;mso-bidi-language:AR-SA&quot; lang=&quot;ES-MX&quot;&gt;Capa de Integración&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="240" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tHBd0AY3MZ-OxSHpLEap-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tHBd0AY3MZ-OxSHpLEap-4" target="tHBd0AY3MZ-OxSHpLEap-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tHBd0AY3MZ-OxSHpLEap-4" value="&lt;span style=&quot;font-size:12.0pt;line-height:&lt;br/&gt;106%;font-family:&amp;quot;Arial Nova Light&amp;quot;,sans-serif;mso-fareast-font-family:Calibri;&lt;br/&gt;mso-bidi-font-family:Arial;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;&lt;br/&gt;mso-bidi-language:AR-SA&quot; lang=&quot;ES-MX&quot;&gt;Lógica de Aplicación&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tHBd0AY3MZ-OxSHpLEap-5" value="&lt;span style=&quot;font-size:12.0pt;line-height:&lt;br/&gt;106%;font-family:&amp;quot;Arial Nova Light&amp;quot;,sans-serif;mso-fareast-font-family:Calibri;&lt;br/&gt;mso-bidi-font-family:Arial;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;&lt;br/&gt;mso-bidi-language:AR-SA&quot; lang=&quot;ES-MX&quot;&gt;Interfaz de usuario&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="640" y="255" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="tHBd0AY3MZ-OxSHpLEap-6" value="&lt;span style=&quot;font-size:12.0pt;line-height:&lt;br/&gt;106%;font-family:&amp;quot;Arial Nova Light&amp;quot;,sans-serif;mso-fareast-font-family:Calibri;&lt;br/&gt;mso-bidi-font-family:Arial;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;&lt;br/&gt;mso-bidi-language:AR-SA&quot; lang=&quot;ES-MX&quot;&gt;Clima Actual&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="tHBd0AY3MZ-OxSHpLEap-5">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tHBd0AY3MZ-OxSHpLEap-7" value="&lt;span style=&quot;font-size:12.0pt;line-height:&lt;br/&gt;106%;font-family:&amp;quot;Arial Nova Light&amp;quot;,sans-serif;mso-fareast-font-family:Calibri;&lt;br/&gt;mso-bidi-font-family:Arial;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;&lt;br/&gt;mso-bidi-language:AR-SA&quot; lang=&quot;ES-MX&quot;&gt;Lista de Restaurantes&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="tHBd0AY3MZ-OxSHpLEap-5">
+          <mxGeometry y="60" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tHBd0AY3MZ-OxSHpLEap-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.006;entryY=-0.08;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tHBd0AY3MZ-OxSHpLEap-4" target="tHBd0AY3MZ-OxSHpLEap-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tHBd0AY3MZ-OxSHpLEap-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="tHBd0AY3MZ-OxSHpLEap-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="310" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tHBd0AY3MZ-OxSHpLEap-15" value="&lt;span lang=&quot;ES-MX&quot; style=&quot;font-size:12.0pt;line-height:&lt;br/&gt;106%;font-family:&amp;quot;Arial Nova Light&amp;quot;,sans-serif;mso-fareast-font-family:Calibri;&lt;br/&gt;mso-bidi-font-family:Arial;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;&lt;br/&gt;mso-bidi-language:AR-SA&quot;&gt;Proporciona información sobre restaurantes cercanos,&lt;br&gt;incluyendo nombre y dirección.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="15" y="410" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="tHBd0AY3MZ-OxSHpLEap-16" value="&lt;span lang=&quot;ES-MX&quot; style=&quot;font-size:12.0pt;line-height:&lt;br/&gt;106%;font-family:&amp;quot;Arial Nova Light&amp;quot;,sans-serif;mso-fareast-font-family:Calibri;&lt;br/&gt;mso-bidi-font-family:Arial;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;&lt;br/&gt;mso-bidi-language:AR-SA&quot;&gt;Proporciona datos meteorológicos actuales, incluyendo&lt;br&gt;temperatura y condiciones&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="30" y="60" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="tHBd0AY3MZ-OxSHpLEap-17" value="&lt;span lang=&quot;ES-MX&quot; style=&quot;font-size:12.0pt;line-height:&lt;br/&gt;106%;font-family:&amp;quot;Arial Nova Light&amp;quot;,sans-serif;mso-fareast-font-family:Calibri;&lt;br/&gt;mso-bidi-font-family:Arial;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;&lt;br/&gt;mso-bidi-language:AR-SA&quot;&gt;Actúa como intermediaria entre las fuentes de datos y&lt;br&gt;la lógica de aplicación, realizando las llamadas a las APIs y recogiendo los&lt;br&gt;datos. Realiza llamadas a la APIs y maneja las respuestas.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="220" y="350" width="160" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="tHBd0AY3MZ-OxSHpLEap-19" value="&lt;span lang=&quot;ES-MX&quot; style=&quot;font-size:12.0pt;line-height:&lt;br/&gt;106%;font-family:&amp;quot;Arial Nova Light&amp;quot;,sans-serif;mso-fareast-font-family:Calibri;&lt;br/&gt;mso-bidi-font-family:Arial;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;&lt;br/&gt;mso-bidi-language:AR-SA&quot;&gt;Procesa y manipula los datos obtenidos de la capa de integración para&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 12pt; font-family: &amp;quot;Arial Nova Light&amp;quot;, sans-serif;&quot;&gt;extraer información del clima y restaurantes filtrando la información&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="430" y="40" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tHBd0AY3MZ-OxSHpLEap-20" value="&lt;span lang=&quot;ES-MX&quot; style=&quot;font-size:12.0pt;line-height:&lt;br/&gt;106%;font-family:&amp;quot;Arial Nova Light&amp;quot;,sans-serif;mso-fareast-font-family:Calibri;&lt;br/&gt;mso-bidi-font-family:Arial;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;&lt;br/&gt;mso-bidi-language:AR-SA&quot;&gt;Proporciona la experiencia visual e interactiva para el usuario final. Incluye la temperatura actual y condiciones, así como también una lista de restaurantes cercanos.&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="650" y="380" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="tHBd0AY3MZ-OxSHpLEap-21" value="&lt;ul&gt;&lt;li&gt;&lt;span lang=&quot;ES-MX&quot; style=&quot;font-size:12.0pt;line-height:&lt;br/&gt;106%;font-family:&amp;quot;Arial Nova Light&amp;quot;,sans-serif;mso-fareast-font-family:Calibri;&lt;br/&gt;mso-bidi-font-family:Arial;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;&lt;br/&gt;mso-bidi-language:AR-SA&quot;&gt;&lt;b&gt;Flujo de datos&lt;/b&gt;: Las flechas indican la dirección del flujo de datos.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span lang=&quot;ES-MX&quot; style=&quot;font-size:12.0pt;line-height:&lt;br/&gt;106%;font-family:&amp;quot;Arial Nova Light&amp;quot;,sans-serif;mso-fareast-font-family:Calibri;&lt;br/&gt;mso-bidi-font-family:Arial;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;&lt;br/&gt;mso-bidi-language:AR-SA&quot;&gt;&lt;b&gt;Objetivo del Mashup&lt;/b&gt;:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Arial Nova Light&amp;quot;, sans-serif; font-size: 12pt; background-color: initial;&quot;&gt;ayudar a los usuarios a encontrar restaurantes cercanos a/o en su ciudad y conocer las condiciones climáticas actuales,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Arial Nova Light&amp;quot;, sans-serif; font-size: 12pt; background-color: initial;&quot;&gt;, para que tomen la decisión de salir o no a comer&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="20" y="590" width="800" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
